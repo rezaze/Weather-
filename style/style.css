@@ -1,0 +1,11 @@
+.bg-img{
+    background: url("/img/BW-1.jpeg") ;
+    background-size: 100% 100% ;
+
+    width: 100%;
+    height: 500px;
+}
+.bg-img1{
+    background: url("/img/BW-2.jpeg");
+    background-size: 100% 100%;
+}
